@@ -3,7 +3,10 @@
 ## Introduction
 
 
-    This product implements creating, launching & monitoring of Virtual Machines using OpenStack and its provided APIs. It helps in creating virtual machines using pre-configured flavors for servers, which in turn launches pre-configured web-server and database servers. It also calculates and exposes the pricing of the various servers running based on the amount of time they have run.
+    This product implements creating, launching & monitoring of Virtual Machines using OpenStack and its provided APIs.
+    It helps in creating virtual machines using pre-configured flavors for servers,
+    which in turn launches pre-configured web-server and database servers.
+    It also calculates and exposes the pricing of the various servers running based on the amount of time they have run.
     The monitoring tool gives an overview of the number of instances launched and usage based on
     ● number of vCPUs
     ● RAM
