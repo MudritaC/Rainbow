@@ -31,22 +31,22 @@
     
 ## Login Page
     
-    ![alt text](screenshot/LoginScreen.jpeg "this is the login page")
+   ![alt text](screenshot/LoginScreen.jpeg "this is the login page")
     
     
 ## Dashboard window
     
-    ![alt text](screenshot/Dashboard.jpeg "this is dashboard page")
+   ![alt text](screenshot/Dashboard.jpeg "this is dashboard page")
     
     
 ##  Billing Page
     
-    ![alt text]("screenshot/Billing.jpeg"This is billing page")
+   ![alt text]("screenshot/Billing.jpeg"This is billing page")
     
     
 ## Reports Page
     
-    ![alt text](screenshot/Reports.jpeg "This is reports page")
+   ![alt text](screenshot/Reports.jpeg "This is reports page")
     
     
 
